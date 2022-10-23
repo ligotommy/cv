@@ -1,0 +1,42 @@
+body {
+    background-color: #205375;
+}
+
+hr {
+    border-color: #112B3C;
+    border-width: 5px;
+    border-style: dotted none none none;
+    width: 8%;
+}
+
+p {
+    color: #EFEFEF;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+ul {
+    color: #EFEFEF;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+ol {
+    color: #EFEFEF;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+h1 {
+    color: #F66B0E;
+    font-weight: 900;
+    font-family: system-ui;
+}
+h3 {
+    color: #F66B0E;
+    font-weight: 700;
+    font-family: system-ui;
+}
