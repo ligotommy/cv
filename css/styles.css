@@ -45,6 +45,10 @@ font-family: 'Merriweather', serif;
 color: #11999E;
 }
 
+a:hover {
+color: #EAF6F6;
+}
+
 .top_container {
 background-color: #EAF6F6;
 position: relative;
